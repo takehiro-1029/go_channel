@@ -10,11 +10,11 @@
 
 ```bash
 .
-├── README.md                   <-- This instructions file
-├── main.go                     <-- DynamoDBとの連携
-├── chat.go                     <-- Cognitoとの連携
-├── go.mod                      <-- Cognitoとの連携
-├── go.sum                      <-- Cognitoとの連携
+├── README.md
+├── main.go
+├── chat.go
+├── go.mod
+├── go.sum
 ```
 
 ## テスト方法
