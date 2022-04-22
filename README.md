@@ -21,11 +21,11 @@
 1. go run *.go
 2. 別コンソールを開き、以下コマンドを入力  
   
-　```  
+```  
 　curl --header "Content-Type: application/json" \
   --request POST \
   --data '{"body":"Hello World"}' \
   http://localhost:8080/messages
-  ```
+```
   
 3. コンソール画面にmessege.IDが出力される
